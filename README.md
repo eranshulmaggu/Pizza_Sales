@@ -28,10 +28,6 @@ This project presents an in-depth sales analysis for a pizza company using advan
 - Cumulative revenue over time
 - Top 3 pizza types by revenue within each category
 
-## 📁 Files Included
-- `pizza_sales_analysis.Rmd`: RMarkdown source file with integrated SQL and visualizations
-- `pizza_sales.db` or CSVs: (if applicable) Data files used for SQL queries
-
 ## 🛠️ Tools & Technologies
 - MySQL
 - R / RMarkdown
