@@ -1,5 +1,9 @@
 # 🍕 Pizza Sales Analysis 🍕
 
+## 👤 Author
+**Anshul Maggu**  
+*HR Analyst at Best One Tools Pvt. Ltd.*
+
 ## 📊 Project Overview
 This project presents an in-depth sales analysis for a pizza company using advanced SQL queries. As a Data Analyst at Target Sales Company, the goal is to derive actionable insights from transactional data including orders, customers, and product details. The analysis is performed using MySQL and presented through an RMarkdown document.
 
@@ -31,7 +35,3 @@ This project presents an in-depth sales analysis for a pizza company using advan
 ## 🛠️ Tools & Technologies
 - MySQL
 - R / RMarkdown
-
-## 👤 Author
-**Anshul Maggu**  
-*HR Analyst at Best One Tools Pvt. Ltd.*
